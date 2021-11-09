@@ -1,0 +1,24 @@
+p {
+    background-color: green;  
+}
+
+#uno { word-spacing: 20mm; }
+#dos { margin: 4em; }
+#tres {margin: 6ex; }
+/* este es el que he estado probando cosas*/
+#cuatro {
+    background-color: rgb(13, 56, 15);
+    color: rgb(28, 15, 207);
+    width: 100px;
+    padding: 100px;
+    border: 3px solid rgb(110, 9, 97);
+    border-radius: 5px;
+    }
+#cinco {align-items: center; width: 200px ; height: 200px;}
+p {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+#seis {text-decoration-color: green; font-family:'Times New Roman', Times, serif;text-transform:capitalize ;}
+#siete {text-transform: capitalize;text-align: justify;font-size: 0,5em;}
+#ocho {white-space: normal;}
+#nueve {}
