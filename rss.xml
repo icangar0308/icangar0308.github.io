@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<rss version="2.0">
+
+	<channel>
+
+			<title>RSS Ismael Cantizano García</title>
+
+			<link>https://github.com/icangar0308/icangar0308.github.io</link>
+
+			<description>Trabajo de ejemplo usando RSS</description>
+
+		<item>
+
+				<title>Ejercicio 5 de HTML</title>
+
+				<link>https://icangar0308.github.io/ejertablas.html </link>
+
+				<description>Pequeño proyecto de horario, comunidad valenciana y plantilla del Real Betis Balompie.</description>
+
+		</item>
+
+		<item>
+
+				<title>Formulario 1</title>
+
+				<link>https://icangar0308.github.io/formulario.html </link>
+
+				<description>Primer formulario realizado en clase de Lenguaje de Marcas.</description>
+
+		</item>
+
+		<item>
+
+<title>Práctica libre de LM como página del Real Betis el Campeón de España.</title>
+
+<link>https://icangar0308.github.io/PaginaPrincipal.html</link>
+
+<description>Viva el Real de Betis Balompié y la virgen de la macarena.</description>
+
+		</item>
+
+
+	</channel>
+
+</rss>
+
+
